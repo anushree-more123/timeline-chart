@@ -26,7 +26,7 @@ A React-based component for displaying a timeline with customizable groups, view
 
 Ensure you have the following installed:
 
-- **Node.js** (version 14 or later)
+- **Node.js** 
 - **npm** or **Yarn** package manager
 
 ### Installation
