@@ -1,0 +1,17 @@
+.react-calendar-timeline .rct-sidebar .rct-sidebar-row {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #007bff;
+  font-weight: bold;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.react-calendar-timeline .rct-header-root {
+  background-color: #fff;
+}
+
+.react-calendar-timeline .rct-dateHeader-primary {
+  color: #000;
+}
